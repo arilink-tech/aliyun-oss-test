@@ -19,7 +19,8 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_btn_init_clicked()
 {
-
+    //remove AccessKeyId and AccessKeySecret
+    qDebug()<<"test push";
 }
 
 
